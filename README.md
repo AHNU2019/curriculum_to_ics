@@ -1,5 +1,6 @@
 # curriculum_to_ics
 安师大新教务系统课程表转日历文件，可在日历里显示课程表
+首发于我的[个人博客](https://hyacm.com/acai/uncategorized/134/timetable2ics/)
 
 ### info
 大学课程表一般都包含上课地址、时间等信息，完全可以用日历软件来做日程安排、上课提醒等，不再需要安装多余的课程表专用app
